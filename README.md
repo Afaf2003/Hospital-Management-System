@@ -51,6 +51,3 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements, 
 - This project was inspired by the need for efficient hospital management solutions.
 - Special thanks to the developers and contributors who have contributed to this project.
 
-```
-
-Replace `https://link.to.your/image` with the link to an image representing your Hospital Management System. Make sure to include screenshots of your application and update the features list based on your project's functionalities.
